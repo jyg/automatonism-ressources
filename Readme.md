@@ -1,1 +1,2 @@
-ressources, documentation and examples for Automatonism [reloaded] 
+Ressources, documentation et exemples pour Automatonism [reloaded] 
+
